@@ -10,7 +10,8 @@
 </div>
  
 <div> 
-  <a href = "mailto:giovanatorresls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- 
+  <a href = "mailto:giovanatorresls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/giovana-torres-42044a207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+  
   ![Snake animation](https://github.com/F4RFALLA/F4RFALLA/blob/output/github-contribution-grid-snake.svg)
 </div>
