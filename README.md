@@ -5,13 +5,13 @@
 </div>
   
   
-<div>
-  <img align "right" height="140" alt="gio-gif" src="https://cdn.discordapp.com/attachments/775898002375573534/943237750776266762/Webp.net-gifmaker.gif"
+<div style="display: inline_block"><br>
+  <img align "right" alt="gio-gif" src="https://cdn.discordapp.com/attachments/775898002375573534/943237750776266762/Webp.net-gifmaker.gif"
 </div>
  
 <div> 
-  <a href = "mailto:giovanatorresls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:giovanatorresls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/F4RFALLA/F4RFALLA/blob/output/github-contribution-grid-snake.svg)
  
 </div>
