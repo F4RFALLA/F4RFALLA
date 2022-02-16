@@ -6,7 +6,7 @@
   
   
 <div style="display: inline_block"><br>
-  <img align "right" alt="gio-gif" src="https://cdn.discordapp.com/attachments/775898002375573534/943237750776266762/Webp.net-gifmaker.gif"
+   <img align="right" alt="gigi-gif" height="160" width="160" src="https://cdn.discordapp.com/attachments/775898002375573534/943237750776266762/Webp.net-gifmaker.gif">
 </div>
  
 <div> 
