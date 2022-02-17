@@ -8,8 +8,9 @@
 <div style="display: inline_block"><br>
    <img align="right" alt="gigi-gif" height="160" width="160" src="https://cdn.discordapp.com/attachments/775898002375573534/943237750776266762/Webp.net-gifmaker.gif">
 </div>
- 
-<div> 
+  
+  ______________________________________
+  <div> 
   <a href = "mailto:giovanatorresls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/giovana-torres-42044a207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
   
