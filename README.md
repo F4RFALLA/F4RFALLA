@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Estudante de Ciência da Computação na UFT (Universidade Federal do Tocantins.
+<p align="center">Estudante de Ciência da Computação na UFT (Universidade Federal do Tocantins)
   
 #
 
