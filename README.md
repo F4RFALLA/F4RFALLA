@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=8000&color=BADAEC&width=435&lines=Bem+vindos+ao+meu+perfil!+(%C9%94%E2%97%94%E2%80%BF%E2%97%94)%C9%94+%E2%99%A5" alt="Typing SVG">
 </a>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-![90ff6fe1fa93ee8abb993fbcdf80b7a8](https://github.com/user-attachments/assets/4429955a-4ea4-44d3-9410-6134b0e71c89)
+![90ff6fe1fa93ee8abb993fbcdf80b7a8](https://github.com/user-attachments/assets/4c5eb222-5a16-4862-b5cd-0c20e88fb636)
 
 #
 
